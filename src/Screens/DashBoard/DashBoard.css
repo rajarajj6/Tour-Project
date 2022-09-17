@@ -1,0 +1,10 @@
+.more:hover{
+    text-decoration: underline;
+}
+.more{
+    color:green
+}
+
+.inputRounde .MuiOutlinedInput-root{
+    border-radius: 10px;
+ }

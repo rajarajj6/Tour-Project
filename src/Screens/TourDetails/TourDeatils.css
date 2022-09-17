@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+.overView-h2{
+    margin: 0px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+.overView-p{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.overView-ul{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.overView-whyTravellers{
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.includedDiv{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.leftDivIncluded{
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+    line-height: 35px;
+}
+.rightDivIncluded{
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+    line-height: 35px;
+}
+.included-p{
+    font-size: 17px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.meething-p{
+    font-size: 18px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.meethingPoint{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.moreP{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+
+.turkeyProduct{
+
+}
+
+.turkeyProductPara{
+    font-size: 18px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.turkeyProductH4{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+.turkeyProductH4Events{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+            
+.divOverViewParagraph{
+    display: flex;
+    flex-direction: column;
+    row-gap: 13px;
+}
